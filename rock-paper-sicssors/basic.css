@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.first-opponent {
+    background-color: bisque;
+    padding: 2rem;
+}
+.second-opponent {
+    background-color: bisque;
+    padding: 2rem;
+}
+
